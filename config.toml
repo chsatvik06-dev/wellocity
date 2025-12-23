@@ -1,0 +1,7 @@
+project_id = "qonusccfykmvtrcqyfgj"
+
+[functions.ai-specialist-chat]
+verify_jwt = false
+
+[functions.modify-plan]
+verify_jwt = false
